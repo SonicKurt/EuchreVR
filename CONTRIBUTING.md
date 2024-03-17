@@ -21,7 +21,7 @@ When creating branches, please adhere to the following naming convention:
 `git clone https://github.com/SonicKurt/EuchreVR.git`
 
 3. Create a Branch: Before making any changes, create a new branch for your work. Choose an appropriate branch name according to the guidelines mentioned above.<br>
-`git checkout -b feature/xyz`
+`git switch -c feature/xyz`
 
 4. Make Changes: Implement your changes or additions to the codebase. Ensure that your code follows the project's coding standards and practices.
 
