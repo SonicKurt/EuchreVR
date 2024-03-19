@@ -35,7 +35,9 @@ When creating branches, please adhere to the following naming convention:
 
 8. Review and Iterate: Your PR will be reviewed by project maintainers. Be prepared to address any feedback or concerns they may have. Make additional changes as necessary and push them to your branch.
 
-9. Merge Your Changes: Once your PR has been approved, it will be merged into the main project repository. Congratulations, you've successfully contributed to the project!
+9. Merge Your Changes: Once your PR has been approved, the reviewer will merge and rebase into the main branch. Congratulations, you've successfully contributed to the project!
+
+10. When one week comes by after your PR has been merged, please delete the branch to keep our repository clean from dead branches. 
 
 Thank you for your contributions! 🎉
 
