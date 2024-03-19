@@ -9,9 +9,13 @@ Euchre with Friends is a virtual reality game that allows players to play the ca
 This project is a term project for the CS-4370 Virtual Reality Applications course at Cedarville University.
 
 ## Table of Contents
-- [Setup](#setup)
+- [Euchre with Friends](#euchre-with-friends)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Setup](#setup)
     - [Prerequisites](#prerequisites)
-- [Copyright](#copyright)
+  - [Contributing Guidelines](#contributing-guidelines)
+  - [Copyright](#copyright)
 
 ## Setup
 ### Prerequisites
@@ -24,7 +28,7 @@ Optional:
  - [Meta XR Simulator](https://developer.oculus.com/documentation/unreal/xrsim-intro/)
 
 ## Contributing Guidelines
-Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for contributing details, and the process for submitting pull requests to us.
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for contributing details and the process for submitting pull requests to us.
 
 ## Copyright
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
