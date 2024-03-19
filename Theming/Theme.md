@@ -30,7 +30,7 @@ Provided by [cgtrader](https://www.cgtrader.com/free-3d-models/sports/game/playi
 
 Not super important, but we can use the following colors for the UI:
 
-![colors](Euchre_with_Friends_Colors.png)
+![colors](Euchre_with_Friends_colors.png)
 
 ## Sounds
 
