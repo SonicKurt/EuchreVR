@@ -1,6 +1,10 @@
 # Euchre with Friends Multiplayer Research
 
 ## Table of Contents
+-[Client and Server](#client-and-server)
+-[Network Modes](#network-modes)
+-[Actor Replication](#actor-replication)
+-[Network Role and Authority](#network-role-and-authority)
 -[References](#references)
 
 ## Client and Server
